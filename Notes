@@ -1,0 +1,42 @@
+Opvallend:
+- Romeinse cijfers worden vaak slecht getranskribeerd (misschien omdat XX niet in NL voorkomt?), bijv. pagina 100 van KBNL03000092135_png
+
+
+
+Fontsize en italic enzo zit wel in de Transkribus-output van KBNL03000092135_png maar niet van UBU000005064_png
+Misschien is de eerste ge-OCR-d en de tweede ge-HTR-d?
+<TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+                
+
+
+Voor UBU000005064_png
+cat process_page_output.xml | grep '>Resolutie' | wc -l
+126
+cat process_page_output.xml | grep '>Placaet' | wc -l
+337
+
+Dus 126 keer een textregio die begint met 'Resolutie' en 337 keer met 'Placaet'
+
+Volgens Annemiekes CSV:
+Resolutie            220
+Placaet              188
+Ordonnantie           19
+Publicatie             9
+Waerschouwinge         6
+Provisionele           3
+Op                     2
+Waerschouwingh         2
+Nieuwe                 1
+Echt-ordeningh         1
+Provinsionele          1
+Placaeten              1
+Eerste                 1
+Kercken-ordeninge      1
+Ordre                  1
+Regelement             1
+Nadere                 1
+Ampliatie              1
+Placeaet               1
+Verbodt                1
+Echtordnungh           1
+Resolutien             1
