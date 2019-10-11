@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:functx="http://www.functx.com"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:num="http://whatever">
+   <Comment>Total number of documents: 486</Comment>
+   <Header type="start-law-2" page="00000011" size="3.5294117647058822">HET TWEEDE DEEL</Header>
+   <Header type="start-law" page="00000011" size="1.6470588235294117">Resolutie tegens het slaen der Hegh-munten</Header>
+   <Header type="start-law-2" page="00000011" size="1.2941176470588236">DEEEngaende die munts-</Header>
+   <Header type="start-law" page="00000011" size="1.6470588235294117">Placaet waer by alle Vasallen en</Header>
+   <Header type="start-law" page="00000012" size="1.5294117647058822">Placaet op den prys van den</Header>
+   <Header type="start-law" page="00000015" size="1.1">Placaet op ’t vangen der vyan-</Header>
+   <Header type="start-law" page="00000016" size="1.5294117647058822">Placaet inhoudende confiscatie</Header>
+   <Header type="start-law" page="00000016" size="1.5294117647058822">Placaet van geene als de ware</Header>
+   <Header type="start-law" page="00000017" size="0.9411764705882353">Placaet waer by de Patroni wer-</Header>
+   <Header type="start-law" page="00000017" size="1.5294117647058822">Placaet waer by de geene die</Header>
+   <Header type="start-law" page="00000020" size="1.6470588235294117">Placaet tot invoeringh ende u¬</Header>
+   <Header type="start-law" page="00000021" size="1.1">Resolutie dat in spolio violento</Header>
+   <Header type="start-law" page="00000021" size="1.7647058823529411">Placaet waer by de Pastoren en.</Header>
+   <Header type="start-law" page="00000022" size="1.8823529411764706">Placaet tegens de uytgeweken</Header>
+   <Header type="start-law" page="00000023" size="1.5294117647058822">Placaet op de Pacht en tegens</Header>
+   <Header type="start-law" page="00000024" size="1.1">Placaet wegens ’t affdorsen van</Header>
+   <Header type="start-law" page="00000024" size="1.1">Resolutie van dat Brabanders</Header>
+   <Header type="start-law" page="00000025" size="1.5294117647058822">Placaet teoens de Misse en het</Header>
+   <Header type="start-law" page="00000025" size="1.5294117647058822">Ordonnantie waer by vervinnen</Header>
+   <Header type="start-law" page="00000026" size="1.5294117647058822">Provisionele ordonnantie op die</Header>
+   <Header type="start-law" page="00000027" size="1.5294117647058822">Placaet tegen de verdingen met</Header>
+   <Header type="start-law" page="00000027" size="0.9411764705882353">Resolutie inhoudende confirma¬</Header>
+   <Header type="start-law" page="00000028" size="1.5294117647058822">Placaet ralende de eygenaren en</Header>
+   <Header type="start-law" page="00000028" size="1.5294117647058822">Resolutie van dat een Lombaert</Header>
+   <Header type="start-law" page="00000028" size="1.5294117647058822">Resolutie van dat geestelicke goe-</Header>
+   <Header type="start-law" page="00000029" size="1.5294117647058822">Resolutie aengaende de keur en</Header>
+   <Header type="start-law" page="00000029" size="1.5294117647058822">Resolutie dat men salrecht doen</Header>
+   <Header type="start-law" page="00000029" size="1.1">Resolutie dat renten op de do¬</Header>
+   <Header type="start-law" page="00000030" size="1.8823529411764706">Resolutie dat de Officieren moe¬</Header>
+   <Header type="start-law" page="00000030" size="1.1">Placaet op die geestlycke goede-</Header>
+   <Header type="start-law" page="00000031" size="1.1">Resolutie dat de Officieren geen</Header>
+   <Header type="start-law" page="00000031" size="1.411764705882353">Resolutie van dat geen intresse</Header>
+   <Header type="start-law" page="00000032" size="1.8823529411764706">Placaet op de Pacht en tegens</Header>
+   <Header type="start-law" page="00000033" size="1.1">Placaet waer by alle leen- man-</Header>
+   <Header type="start-law" page="00000034" size="1.5294117647058822">Placaet waer by den termyn in</Header>
+   <Header type="start-law" page="00000034" size="1.5294117647058822">Placaet dat de patrom bare</Header>
+   <Header type="start-law" page="00000035" size="1.5294117647058822">Placaet tegens den wtsoer van</Header>
+   <Header type="start-law" page="00000035" size="1.5294117647058822">Placaet tegen den uytvoer van</Header>
+   <Header type="start-law" page="00000036" size="1.5294117647058822">Placaet tegens de verdingen met</Header>
+   <Header type="start-law" page="00000036" size="1.5294117647058822">Placaet tot affstellingh vanPa¬</Header>
+   <Header type="start-law" page="00000037" size="2">Placaet tegens den opkoop en</Header>
+   <Header type="start-law" page="00000038" size="1.1">Resolutie raekende het jus pa¬</Header>
+   <Header type="start-law" page="00000038" size="1.5294117647058822">Resolutie aengaende die keure</Header>
+   <Header type="start-law" page="00000038" size="1.5294117647058822">Resolutie waer by d’ ordonnan-</Header>
+   <Header type="start-law" page="00000039" size="1.8823529411764706">Resolutie dat keur-baver funda-</Header>
+   <Header type="start-law" page="00000039" size="1.8823529411764706">Echtordnungh off ordonnantie op</Header>
+   <Header type="start-law" page="00000040" size="1.5294117647058822">Placaet dat de pachten der do¬</Header>
+   <Header type="start-law" page="00000040" size="1.5294117647058822">Placaet tegens den uytvoer der</Header>
+   <Header type="start-law" page="00000041" size="1.7647058823529411">Placaet tot bevrydinge van Ve-</Header>
+   <Header type="start-law" page="00000041" size="1.7647058823529411">Placaet waer by verboden wort</Header>
+   <Header type="start-law" page="00000042" size="1.1">Placaet teghens Vagabunden,</Header>
+   <Header type="start-law" page="00000042" size="1.5294117647058822">Placaet dat de Leen-borige aen</Header>
+   <Header type="start-law" page="00000043" size="1.8823529411764706">Placaet dat de geene die aen de</Header>
+   <Header type="start-law" page="00000043" size="1.8823529411764706">Placaet tegen het verdonckeren</Header>
+   <Header type="start-law" page="00000044" size="1.5294117647058822">Placaet tot bevridungh der</Header>
+   <Header type="start-law" page="00000045" size="1.1">Placaet tegens het gansen-tree¬</Header>
+   <Header type="start-law" page="00000045" size="1.5294117647058822">Resolutie rakende de jurisdictie</Header>
+   <Header type="start-law" page="00000045" size="1.5294117647058822">Resolutie vaekende de judicature</Header>
+   <Header type="start-law" page="00000045" size="1.5294117647058822">Resolutie waer by een golt-gul¬</Header>
+   <Header type="start-law" page="00000046" size="1.8823529411764706">Resolutie aengaende de fient-</Header>
+   <Header type="start-law" page="00000046" size="1.1">Placaet op de Tacht.</Header>
+   <Header type="start-law" page="00000047" size="1.1">Placaet op. t wagen-spoor om</Header>
+   <Header type="start-law" page="00000047" size="1.5294117647058822">Placaet betreffende het betalen</Header>
+   <Header type="start-law" page="00000048" size="1.1">Placaet inhoudende amghatie.</Header>
+   <Header type="start-law" page="00000048" size="1.5294117647058822">Resolutie van dat de aennemingh</Header>
+   <Header type="start-law" page="00000048" size="1.5294117647058822">Resolutie van geen geestlycke</Header>
+   <Header type="start-law" page="00000049" size="1.1">Resolutie om alleen te observe¬</Header>
+   <Header type="start-law" page="00000049" size="1.5294117647058822">Resolutie aengaende de betalung</Header>
+   <Header type="start-law" page="00000049" size="1.5294117647058822">Resolutie op de betalingh van</Header>
+   <Header type="start-law" page="00000049" size="1.5294117647058822">Resolutie rakende de kortingh</Header>
+   <Header type="start-law" page="00000049" size="1.5294117647058822">Resolutie van hoe ver partydig-</Header>
+   <Header type="start-law" page="00000050" size="1.5294117647058822">Resolutie waer by geaccordeert</Header>
+   <Header type="start-law" page="00000050" size="1.5294117647058822">Placaet aengaende de vicarien</Header>
+   <Header type="start-law" page="00000050" size="1.5294117647058822">Resolutie waer by alle ahienatien</Header>
+   <Header type="start-law" page="00000051" size="1.5294117647058822">Placaet teeens de contributien</Header>
+   <Header type="start-law" page="00000052" size="1.5294117647058822">Resolutie dat vervallen breuken</Header>
+   <Header type="start-law" page="00000053" size="1.7647058823529411">Resolutie dat burgen in saken</Header>
+   <Header type="start-law" page="00000053" size="1.7647058823529411">Resolutie waer by Registers en</Header>
+   <Header type="start-law" page="00000053" size="1.7647058823529411">Placaet ende ordonnantie op die</Header>
+   <Header type="start-law" page="00000054" size="1.411764705882353">Resolutie dat walt-rogge voor</Header>
+   <Header type="start-law" page="00000055" size="1.5294117647058822">Resolutie dat voor thentmael¬</Header>
+   <Header type="start-law" page="00000055" size="1.5294117647058822">Resolutie van dat brieven van</Header>
+   <Header type="start-law" page="00000055" size="1.5294117647058822">Resolutie tegens die profanatie</Header>
+   <Header type="start-law-2" page="00000055" size="1.5294117647058822">Op-ten tweden van profanatie</Header>
+   <Header type="start-law" page="00000056" size="1.5294117647058822">Resolutie dat men den byen tient</Header>
+   <Header type="start-law" page="00000056" size="1.5294117647058822">Resolutie dat de Ontfangers en</Header>
+   <Header type="start-law" page="00000056" size="1.5294117647058822">Resolutie inhoudende de straff</Header>
+   <Header type="start-law" page="00000057" size="1.6470588235294117">Placaet dat de nilitairen oeen</Header>
+   <Header type="start-law" page="00000058" size="1.7647058823529411">Resolutie confirmatour op d’ or-</Header>
+   <Header type="start-law" page="00000058" size="1.7647058823529411">Resolutie van geen vervinnenin</Header>
+   <Header type="start-law" page="00000058" size="1.7647058823529411">Resolutie dat de Officieren mogen</Header>
+   <Header type="start-law" page="00000059" size="1">Placaet om te wicarien te ver¬</Header>
+   <Header type="start-law" page="00000059" size="1.6470588235294117">Placaet van niet te trouwen als</Header>
+   <Header type="start-law" page="00000060" size="1.2941176470588236">Placaet tegens’t maken van ver-</Header>
+   <Header type="start-law" page="00000061" size="1.6470588235294117">Placaet tot beurydingh van de</Header>
+   <Header type="start-law" page="00000062" size="1.5294117647058822">Resolutie waer by den golt-gulden</Header>
+   <Header type="start-law" page="00000062" size="1.1">Placaet om de geestelicke goede-</Header>
+   <Header type="start-law" page="00000063" size="1.5294117647058822">Resolutie van geen kynderen by</Header>
+   <Header type="start-law" page="00000063" size="1.1">Resolutie inhoudende boe weten</Header>
+   <Header type="start-law" page="00000063" size="1.5294117647058822">Resolutie van geen pasporten te</Header>
+   <Header type="start-law" page="00000064" size="1.8823529411764706">Placaet tegens de verdingen met</Header>
+   <Header type="start-law" page="00000065" size="1.8823529411764706">Placaet dat die iets wegens de</Header>
+   <Header type="start-law" page="00000066" size="1.8823529411764706">Resolutie dat men de spectale</Header>
+   <Header type="start-law" page="00000066" size="1.8823529411764706">Placaet van myn Heeren de</Header>
+   <Header type="start-law-2" page="00000066" size="1.2352941176470589">Staten Generael van de Vereentrde Neder-</Header>
+   <Header type="start-law" page="00000068" size="1.411764705882353">Resolutie van dat geestelycke</Header>
+   <Header type="start-law" page="00000069" size="1.6470588235294117">Resolutie en verbhot vangeen goe-</Header>
+   <Header type="start-law" page="00000069" size="1.1">Resolutie van dat op Heren goe-</Header>
+   <Header type="start-law" page="00000069" size="1.6470588235294117">Resolutie dat Baer en Lathum</Header>
+   <Header type="start-law" page="00000069" size="1.6470588235294117">Placaet dat die yets wegens gee-</Header>
+   <Header type="start-law" page="00000070" size="1.6470588235294117">Resolutie inhoudende boe nae</Header>
+   <Header type="start-law" page="00000071" size="1.6470588235294117">Resolutie dat men voor tient-</Header>
+   <Header type="start-law" page="00000071" size="1.6470588235294117">Ordonnantie op d’ appellen ende</Header>
+   <Header type="start-law" page="00000072" size="1.6470588235294117">Resolutie dat voor tient-maelty-</Header>
+   <Header type="start-law" page="00000072" size="1.6470588235294117">Resolutie dat sententien buyten</Header>
+   <Header type="start-law" page="00000073" size="1.5294117647058822">Resolutie dat de Officieren sieck.</Header>
+   <Header type="start-law" page="00000073" size="1.5294117647058822">Resolutie inhoudende dat renten</Header>
+   <Header type="start-law" page="00000073" size="1.5294117647058822">Ordonnantie op de Dyckrechten</Header>
+   <Header type="start-law" page="00000076" size="1.5294117647058822">Placaet ende ordonnantie op ’t</Header>
+   <Header type="start-law" page="00000077" size="1.0588235294117647">Resolutie inhoudende de vaca¬</Header>
+   <Header type="start-law" page="00000077" size="1.5294117647058822">Resolutie waer by de approbatie</Header>
+   <Header type="start-law" page="00000077" size="1.5294117647058822">Placaet teghens sedighgangers</Header>
+   <Header type="start-law" page="00000078" size="1.1">Resolutie dat een parricida ver-</Header>
+   <Header type="start-law" page="00000078" size="1.411764705882353">Resolutie van dat een Dochter</Header>
+   <Header type="start-law" page="00000078" size="1.411764705882353">Resolutie dat op Heeren-goederen</Header>
+   <Header type="start-law" page="00000079" size="1.5294117647058822">Resolutie confirmatour dat men</Header>
+   <Header type="start-law" page="00000079" size="1.5294117647058822">Resolutie van alle kleyne breuc-</Header>
+   <Header type="start-law" page="00000079" size="1.1">Resolutie van tot Beest en Re-</Header>
+   <Header type="start-law" page="00000079" size="1.5294117647058822">Resolutie raechende de Keur op</Header>
+   <Header type="start-law" page="00000080" size="1.1">Resolutie vakende de tient-mael¬</Header>
+   <Header type="start-law" page="00000080" size="1.5294117647058822">Placaet tegens het verbrengen</Header>
+   <Header type="start-law" page="00000081" size="1.5294117647058822">Placaet tegens het gebruyck van</Header>
+   <Header type="start-law" page="00000081" size="1.1">Placaet tegens de Ruarts GEs-</Header>
+   <Header type="start-law" page="00000081" size="1.1">Placaet valende de vicarien.</Header>
+   <Header type="start-law" page="00000082" size="1.1">Resolutie rakende ende aengaen-</Header>
+   <Header type="start-law" page="00000083" size="1.5294117647058822">Resolutie inhoudende boe bof-</Header>
+   <Header type="start-law" page="00000083" size="1.1">Resolutie van geen bomen op ge-</Header>
+   <Header type="start-law" page="00000083" size="1.1">Resolutie sprekende van de re¬</Header>
+   <Header type="start-law" page="00000083" size="1.5294117647058822">Placaet tegen de schellingen en</Header>
+   <Header type="start-law-2" page="00000085" size="1.5294117647058822">Artyckelen van den Gelderschen</Header>
+   <Header type="start-law" page="00000087" size="1.5294117647058822">Resolutie van den veertienden</Header>
+   <Header type="start-law" page="00000087" size="1.5294117647058822">Resolutie dat tienden niet geno-</Header>
+   <Header type="start-law" page="00000087" size="1.5294117647058822">Resolutie dat men geen geeste-</Header>
+   <Header type="start-law" page="00000088" size="1.1">Placaet aengaende de witbaen.</Header>
+   <Header type="start-law" page="00000089" size="1.5294117647058822">Resolutie dat Predicanten met</Header>
+   <Header type="start-law" page="00000089" size="1.5294117647058822">Placaet uyt-gegeven van wegen</Header>
+   <Header type="start-law" page="00000091" size="1.6470588235294117">Placaet van niet te trouwen als</Header>
+   <Header type="start-law" page="00000092" size="1.411764705882353">Placaet wegens het vieren der</Header>
+   <Header type="start-law-2" page="00000092" size="1.2352941176470589">Son-en feest ende bede-dagen.</Header>
+   <Header type="start-law" page="00000093" size="1.5294117647058822">Placaet op de Facht en tegen</Header>
+   <Header type="start-law" page="00000094" size="1.1">Resolutie aengaende het ambie¬</Header>
+   <Header type="start-law" page="00000094" size="1.1">Resolutie waer by een Gelder¬</Header>
+   <Header type="start-law" page="00000095" size="1.1">Resolutie dat een Overspeelder¬</Header>
+   <Header type="start-law" page="00000095" size="1.5294117647058822">Placaet tegens het papegaey¬</Header>
+   <Header type="start-law" page="00000095" size="1.5294117647058822">Placaet tegens Lantlopers en</Header>
+   <Header type="start-law" page="00000096" size="1.5294117647058822">Resolutie dat geestelycke bare</Header>
+   <Header type="start-law" page="00000096" size="1.5294117647058822">Resolutie sprekende van t brib¬</Header>
+   <Header type="start-law" page="00000096" size="1.5294117647058822">Resolutie meldende by wie de</Header>
+   <Header type="start-law" page="00000096" size="1.1">Kercken- ordeninghe s goet ge-</Header>
+   <Header type="start-law-2" page="00000099" size="1.2941176470588236">Van de Kerckelycke t samen-kemsten.</Header>
+   <Header type="start-law-2" page="00000105" size="1.6470588235294117">Volgen de articulen daer inne de</Header>
+   <Header type="start-law" page="00000105" size="1.6470588235294117">Placaet tegens beerlose lnech-</Header>
+   <Header type="start-law" page="00000106" size="1.5294117647058822">Placaet van geen contributien</Header>
+   <Header type="start-law" page="00000106" size="1.5294117647058822">Placaet tegens het mahen van</Header>
+   <Header type="start-law" page="00000107" size="1.6470588235294117">Resolutie dat de Officieren voor</Header>
+   <Header type="start-law" page="00000107" size="1.1">Resolutie van geen Eribben nit¬</Header>
+   <Header type="start-law" page="00000108" size="1.1">Resolutie seggende dat de lom-</Header>
+   <Header type="start-law" page="00000108" size="1.5294117647058822">Resolutie dat het aennemen off</Header>
+   <Header type="start-law" page="00000108" size="1.1">Placaet van geen lopers en stro¬</Header>
+   <Header type="start-law" page="00000109" size="1.5294117647058822">Placaet waer by de Predicanten</Header>
+   <Header type="start-law" page="00000109" size="1.5294117647058822">Resolutie inhoudende verbogingh</Header>
+   <Header type="start-law" page="00000110" size="1.5294117647058822">Resolutie meldende hoe verre</Header>
+   <Header type="start-law" page="00000110" size="1.5294117647058822">Resolutie dat de investituren van</Header>
+   <Header type="start-law" page="00000110" size="1.5294117647058822">Placaet aengaende de Pacht en</Header>
+   <Header type="start-law" page="00000112" size="1.5294117647058822">Placaet tot wieringh van de</Header>
+   <Header type="start-law" page="00000113" size="1.5294117647058822">Placaet tegens het schieten van</Header>
+   <Header type="start-law" page="00000114" size="1.5294117647058822">Placaet van niet als na voor¬</Header>
+   <Header type="start-law" page="00000114" size="1.1">Placaet om de goederen , tot voor¬</Header>
+   <Header type="start-law" page="00000114" size="1.5294117647058822">Publicatie dat die in de West-</Header>
+   <Header type="start-law" page="00000115" size="1.5294117647058822">Resolutie dat den krychs-rtaet</Header>
+   <Header type="start-law" page="00000115" size="1.5294117647058822">Placaet tegens seeckere beele en</Header>
+   <Header type="start-law" page="00000116" size="1.6470588235294117">Placaet tegens den uytvoer van</Header>
+   <Header type="start-law" page="00000116" size="1.6470588235294117">Publicatie van den opbeff van</Header>
+   <Header type="start-law" page="00000117" size="1.7647058823529411">Placaet op de acht op Veluwe</Header>
+   <Header type="start-law" page="00000119" size="1.5294117647058822">Placaet dat geen Geestelycken</Header>
+   <Header type="start-law" page="00000119" size="1.5294117647058822">Placaet tegens s vyandts lopers</Header>
+   <Header type="start-law-2" page="00000120" size="1.6470588235294117">Resolufie dat de Berghsche kla-</Header>
+   <Header type="start-law" page="00000120" size="1.6470588235294117">Resolutie begrotende de breuken</Header>
+   <Header type="start-law" page="00000121" size="1.1">Resolutie aengaende de keur,</Header>
+   <Header type="start-law" page="00000121" size="1.1">Placaet tegens bedelaers, ledig¬</Header>
+   <Header type="start-law" page="00000122" size="1.5294117647058822">Resolutie van dat geen geestlye-</Header>
+   <Header type="start-law" page="00000122" size="1.5294117647058822">Resolutie verbiedende gemeyn-</Header>
+   <Header type="start-law" page="00000123" size="1.1">Resolutie dat de devolutie van</Header>
+   <Header type="start-law" page="00000123" size="1.7647058823529411">Placaet op de Pacht en teoens</Header>
+   <Header type="start-law" page="00000125" size="1.7647058823529411">Placaet tegens de verdingen met</Header>
+   <Header type="start-law" page="00000125" size="1.1">Placaeten de ers-renten, tinsen</Header>
+   <Header type="start-law" page="00000126" size="1.5294117647058822">Placaet tegens contributien, sau-</Header>
+   <Header type="start-law" page="00000127" size="1.7647058823529411">Resolutie dat eceen breucken uyt</Header>
+   <Header type="start-law" page="00000127" size="1.7647058823529411">Resolutie inhoudende eenige ver-</Header>
+   <Header type="start-law" page="00000128" size="1.6470588235294117">Placaet op het vieren van Son-</Header>
+   <Header type="start-law" page="00000129" size="1.5294117647058822">Resolutie van een executie byge-</Header>
+   <Header type="start-law" page="00000129" size="1.1">Placaet tegens conventiculen</Header>
+   <Header type="start-law" page="00000130" size="1.1">Placaet tegens bedelaers, ledto-</Header>
+   <Header type="start-law" page="00000131" size="1.5294117647058822">Resolutie inhoudende dat breu-</Header>
+   <Header type="start-law" page="00000131" size="1.1">Resolutie van interesse belooft</Header>
+   <Header type="start-law" page="00000132" size="1.5294117647058822">Resolutie waer by toe- celaten</Header>
+   <Header type="start-law" page="00000132" size="1.5294117647058822">Placaet tegens het verbrengen</Header>
+   <Header type="start-law" page="00000133" size="1.8823529411764706">Resolutie dat aen kynderen in</Header>
+   <Header type="start-law" page="00000133" size="1.1">Placaet tegens bedelaers, landt¬</Header>
+   <Header type="start-law" page="00000134" size="1.7647058823529411">Placaet tegens den uytvoer van</Header>
+   <Header type="start-law" page="00000134" size="1.7647058823529411">Placaet tegen het papegaey-</Header>
+   <Header type="start-law" page="00000135" size="1.5294117647058822">Resolutie dat de schouwdagen.</Header>
+   <Header type="start-law" page="00000135" size="1.1">Resolutie dat de optie van de</Header>
+   <Header type="start-law" page="00000135" size="1.5294117647058822">Resolutie van te mogen aensprack.</Header>
+   <Header type="start-law" page="00000135" size="1.5294117647058822">Placaet tegens het beschadigen</Header>
+   <Header type="start-law" page="00000136" size="1.7647058823529411">Placaet inhoudende den opheff</Header>
+   <Header type="start-law" page="00000136" size="1.7647058823529411">Placaet tegens het verwerven</Header>
+   <Header type="start-law" page="00000137" size="1.411764705882353">Placaet tegen het branden der</Header>
+   <Header type="start-law" page="00000137" size="1.5294117647058822">Ordonnantie, waer op binnen</Header>
+   <Header type="start-law" page="00000141" size="1.5294117647058822">Placaet om nieuw tonsent tot</Header>
+   <Header type="start-law" page="00000141" size="1.5294117647058822">Placaet tegens de contrihufien</Header>
+   <Header type="start-law" page="00000142" size="1.5294117647058822">Placaet tegens contributien en</Header>
+   <Header type="start-law" page="00000142" size="1.5294117647058822">Placaet tegens vagabunden en</Header>
+   <Header type="start-law" page="00000143" size="1.7647058823529411">Resolutie dat de vicarien by het</Header>
+   <Header type="start-law" page="00000144" size="1.5294117647058822">Resolutie dat de nieuw aenge-</Header>
+   <Header type="start-law" page="00000144" size="1.5294117647058822">Resolutie dat de crediteuren in</Header>
+   <Header type="start-law" page="00000144" size="1.1">Placaet tegens de Paus-gesin-</Header>
+   <Header type="start-law" page="00000146" size="1.5294117647058822">Resolutie van over geen actens te</Header>
+   <Header type="start-law" page="00000146" size="1.5294117647058822">Resolutie dat de aennemingh off</Header>
+   <Header type="start-law" page="00000146" size="1.5294117647058822">Resolutie aengaende de tient-ury¬</Header>
+   <Header type="start-law" page="00000147" size="1.7647058823529411">Resolutie inhoudende hoe een</Header>
+   <Header type="start-law" page="00000147" size="1.7647058823529411">Placaet aengaende de vicarien.</Header>
+   <Header type="start-law" page="00000148" size="1.5294117647058822">Placaet waer by den tol van die</Header>
+   <Header type="start-law" page="00000148" size="1.1">Placaet ralende d’appellen op</Header>
+   <Header type="start-law" page="00000149" size="1.5294117647058822">Placaet tegens het trecken van</Header>
+   <Header type="start-law" page="00000149" size="1.411764705882353">Placaet van geen Beetbossen met</Header>
+   <Header type="start-law" page="00000149" size="2">Placaet tegens de begraeffemis</Header>
+   <Header type="start-law" page="00000150" size="1.5294117647058822">Placaet van geenrecht-saken te</Header>
+   <Header type="start-law" page="00000151" size="1.1">Resolutie dat ymant in com-</Header>
+   <Header type="start-law-2" page="00000151" size="1.2352941176470589">Nxvidkt uyttet reces-sito Lqinst-</Header>
+   <Header type="start-law" page="00000151" size="1.8823529411764706">Placaet tegen het verstoren van</Header>
+   <Header type="start-law" page="00000152" size="1.1">Placaet tegens heerlose knechten,</Header>
+   <Header type="start-law" page="00000153" size="1.1">Placaet tegens het nemen off ont-</Header>
+   <Header type="start-law" page="00000153" size="1.7647058823529411">Placaet tegens de contributien</Header>
+   <Header type="start-law" page="00000155" size="1.1">Placaet waer by to0. Ryx-</Header>
+   <Header type="start-law" page="00000155" size="1.5294117647058822">Placaet van de Hooghe ende</Header>
+   <Header type="start-law" page="00000157" size="1.1">Resolutie dat den termyn van2.</Header>
+   <Header type="start-law" page="00000157" size="1.5294117647058822">Placaet tegens alle Doeyten ge-</Header>
+   <Header type="start-law" page="00000158" size="1.5294117647058822">Placaet tegens de sauvegardes</Header>
+   <Header type="start-law" page="00000159" size="1.7647058823529411">Resolutie mede¬brengende eenige</Header>
+   <Header type="start-law" page="00000159" size="1.7647058823529411">Placaet tegens ’t onheyligen van</Header>
+   <Header type="start-law" page="00000160" size="1.411764705882353">Placaet tegens de Rooms-ge-</Header>
+   <Header type="start-law" page="00000163" size="1.7647058823529411">Placaet waer by yder gelast wort</Header>
+   <Header type="start-law" page="00000163" size="1.1">Rosolutie om de schoudagen</Header>
+   <Header type="start-law" page="00000164" size="1.5294117647058822">Resolutie dat geen militairen</Header>
+   <Header type="start-law" page="00000164" size="1.1">Placaet van de twee Faer¬</Header>
+   <Header type="start-law" page="00000165" size="1.5294117647058822">Resolutie dat alle Walt-fursters</Header>
+   <Header type="start-law" page="00000165" size="1.5294117647058822">Resolutie waer by Baer en La-</Header>
+   <Header type="start-law" page="00000165" size="1.1">Resolutie waer by het appel van</Header>
+   <Header type="start-law-2" page="00000165" size="1.2941176470588236">BBaer en Latum aen de Graefschap Zut¬</Header>
+   <Header type="start-law" page="00000165" size="1.5294117647058822">Resolutie dat de papisten mogen</Header>
+   <Header type="start-law" page="00000166" size="1.5294117647058822">Placaet tegens het inbrengen van</Header>
+   <Header type="start-law" page="00000166" size="1.5294117647058822">Placaet vaeckende de schepen</Header>
+   <Header type="start-law" page="00000167" size="1.1">Resolutie dat in vindicatien</Header>
+   <Header type="start-law" page="00000167" size="1.6470588235294117">Resolutie van den schouwin het</Header>
+   <Header type="start-law" page="00000167" size="1.1">Ordonnantie op ’t beneficium</Header>
+   <Header type="start-law" page="00000169" size="1.1">Placaet tegens vagabonden, bey¬</Header>
+   <Header type="start-law" page="00000170" size="1.6470588235294117">Resolutie van de churongen niet</Header>
+   <Header type="start-law" page="00000170" size="1.6470588235294117">Resolutie dat alle de paepsche</Header>
+   <Header type="start-law" page="00000170" size="1.6470588235294117">Placaet om de Leenen te komen</Header>
+   <Header type="start-law" page="00000171" size="1.5294117647058822">Resolutie van de schouwin fiel</Header>
+   <Header type="start-law" page="00000171" size="1.5294117647058822">Resolutie dat de militauren geen</Header>
+   <Header type="start-law-2" page="00000171" size="1.2352941176470589">Exrract uyttet reces des Landt¬</Header>
+   <Header type="start-law" page="00000171" size="1.1">Resolutie van alle paepsche Of-</Header>
+   <Header type="start-law" page="00000172" size="1.7647058823529411">Placaet tegens de Booms-gesin-</Header>
+   <Header type="start-law" page="00000175" size="1.5294117647058822">Resolutie dat ouders onder baer</Header>
+   <Header type="start-law" page="00000175" size="1.5294117647058822">Placaet op de Tacht.</Header>
+   <Header type="start-law-2" page="00000175" size="1.2352941176470589">WS IEE Dat</Header>
+   <Header type="start-law" page="00000177" size="1.1">Rosolutie dat questie over de¬</Header>
+   <Header type="start-law" page="00000177" size="1.1">Resolutie dat de genecht-schou-</Header>
+   <Header type="start-law" page="00000178" size="1.1">Resolutie dat de paepsche offiei-</Header>
+   <Header type="start-law" page="00000178" size="1.5294117647058822">Placaet tegens de Rooms-gesin-</Header>
+   <Header type="start-law" page="00000181" size="1.5294117647058822">Placaet rakende het onderhouden</Header>
+   <Header type="start-law" page="00000182" size="1.1">Resolutie waer by de adoptie</Header>
+   <Header type="start-law" page="00000182" size="1.5294117647058822">Resolutie dat de kennisse over</Header>
+   <Header type="start-law" page="00000183" size="1.5294117647058822">Ordonnantie Heeren goederen</Header>
+   <Header type="start-law" page="00000183" size="1.1">Rosolutie aengaende die con-</Header>
+   <Header type="start-law" page="00000184" size="1.1">Resolutie aengaende de concor¬</Header>
+   <Header type="start-law" page="00000184" size="1.1">Ordonnantie van het Neder-</Header>
+   <Header type="start-law" page="00000191" size="1.7647058823529411">Placaet om de Leenen te ver-</Header>
+   <Header type="start-law" page="00000192" size="1.5294117647058822">Placaet ende ordonnantie tegens</Header>
+   <Header type="start-law" page="00000194" size="1.1">Placaet rahende N aengebael-</Header>
+   <Header type="start-law" page="00000194" size="1.1">Resolutie van de Boomsch-ge¬</Header>
+   <Header type="start-law" page="00000195" size="1.6470588235294117">Resolutie van questien over Lee-</Header>
+   <Header type="start-law" page="00000195" size="1.1">Resolutie ralende de concor¬</Header>
+   <Header type="start-law" page="00000196" size="1.5294117647058822">Ordonnantie op den Fol tusschen</Header>
+   <Header type="start-law" page="00000197" size="1.5294117647058822">Placaet en ordonnantie op de</Header>
+   <Header type="start-law" page="00000199" size="2">Resolutie waer by de keur op</Header>
+   <Header type="start-law-2" page="00000199" size="1.2352941176470589">Veluwe tegens de Gtrechtsche opgeheven</Header>
+   <Header type="start-law" page="00000199" size="1.1">Placaet tegens de heet-maeyers</Header>
+   <Header type="start-law" page="00000200" size="1.5294117647058822">Placaet ende ordonnantie tegens</Header>
+   <Header type="start-law" page="00000201" size="1.8823529411764706">Placaet tegens het vervoeren en</Header>
+   <Header type="start-law-2" page="00000202" size="1.5294117647058822">Echtordernch off ordonnantie</Header>
+   <Header type="start-law" page="00000204" size="1.5294117647058822">Resolutie dat men sal procederen</Header>
+   <Header type="start-law" page="00000205" size="1.1">Resolutie rakende de concorda¬</Header>
+   <Header type="start-law" page="00000205" size="1.5294117647058822">Placaet tegens het onbeboorlyck</Header>
+   <Header type="start-law" page="00000207" size="1.1">Resolutie waer by een resticu¬</Header>
+   <Header type="start-law" page="00000207" size="1.5294117647058822">Resolutie van de vicarien niet</Header>
+   <Header type="start-law" page="00000207" size="1.5294117647058822">Resolutie dat de Geestelycken geen</Header>
+   <Header type="start-law" page="00000208" size="1.0588235294117647">Publicatie waer by Doctor Lu-</Header>
+   <Header type="start-law" page="00000208" size="1.5294117647058822">Placaet tegen het houwen en</Header>
+   <Header type="start-law" page="00000209" size="1.5294117647058822">Resolutie rakende en aengaende</Header>
+   <Header type="start-law" page="00000210" size="1.5294117647058822">Resolutie aengaende Roomsche</Header>
+   <Header type="start-law" page="00000210" size="1.5294117647058822">Resolutie dat het beneficie van</Header>
+   <Header type="start-law" page="00000210" size="1.5294117647058822">Resolutie dat der Officieren</Header>
+   <Header type="start-law" page="00000211" size="1.5294117647058822">Resolutie van dat de fiscaels wel</Header>
+   <Header type="start-law" page="00000211" size="1.5294117647058822">Resolutie dat geen Onder-Leen-</Header>
+   <Header type="start-law" page="00000211" size="1.1">Resolutie dat een compromis-</Header>
+   <Header type="start-law" page="00000211" size="1.5294117647058822">Ordonnantie op den Fol van den</Header>
+   <Header type="start-law" page="00000212" size="1.1">Resolutie dat de Gerichts jra</Header>
+   <Header type="start-law" page="00000212" size="1.5294117647058822">Resolutie dat geen Rooms-gesin-</Header>
+   <Header type="start-law" page="00000213" size="1.5294117647058822">Resolutie seggende wat segel om</Header>
+   <Header type="start-law" page="00000213" size="1.5294117647058822">Amphatie der ordonnantie op de</Header>
+   <Header type="start-law" page="00000214" size="1.1">Resolutie dat ymant frande in</Header>
+   <Header type="start-law" page="00000215" size="1.5294117647058822">Ordonnantie van den Hove en</Header>
+   <Header type="start-law" page="00000217" size="1.7647058823529411">Resolutie dat alle gaft-huysen</Header>
+   <Header type="start-law" page="00000217" size="1.7647058823529411">Placaet tegens het verdonkeren</Header>
+   <Header type="start-law" page="00000218" size="1.7647058823529411">Placaet rakende den Pabacks-</Header>
+   <Header type="start-law" page="00000219" size="1.5294117647058822">Placaet tegens het onbehoorlyck</Header>
+   <Header type="start-law" page="00000220" size="1.5294117647058822">Placaet wegens den krytende</Header>
+   <Header type="start-law" page="00000220" size="1.1">Resolutie dat hier brieven van</Header>
+   <Header type="start-law" page="00000221" size="1.1">Resolutie interpreterende en lini-</Header>
+   <Header type="start-law" page="00000221" size="1.5294117647058822">Resolutie inhoudende boe oude</Header>
+   <Header type="start-law" page="00000221" size="1.5294117647058822">Placaet tegens de water-schepen</Header>
+   <Header type="start-law" page="00000222" size="1.1">Placaet tegen die de Heeren-</Header>
+   <Header type="start-law" page="00000222" size="2">Resolutie verbiedende gelt te ge-</Header>
+   <Header type="start-law" page="00000223" size="1.5294117647058822">Placaet tegens de nieuwe stuy¬</Header>
+   <Header type="start-law" page="00000223" size="1.5294117647058822">Placaet valende den Hop¬tient</Header>
+   <Header type="start-law" page="00000224" size="1.1">Placaet op de Pacht.</Header>
+   <Header type="start-law" page="00000226" size="1.1">Resolutie van parate executie</Header>
+   <Header type="start-law" page="00000226" size="1.5294117647058822">Placaet op de Facht.</Header>
+   <Header type="start-law" page="00000226" size="1.5294117647058822">Resolutie rakende die betalingh</Header>
+   <Header type="start-law" page="00000227" size="1.8823529411764706">Placaet over het stuck van de</Header>
+   <Header type="start-law" page="00000232" size="1.5294117647058822">Placaet tegens de geene die in de</Header>
+   <Header type="start-law" page="00000233" size="1.7647058823529411">Placaet tegens de beerlose vaga¬</Header>
+   <Header type="start-law" page="00000234" size="1.1">Placaet aengaende den bop¬tient,</Header>
+   <Header type="start-law" page="00000234" size="1.5294117647058822">Placaet wegens het observeren</Header>
+   <Header type="start-law" page="00000236" size="1.5294117647058822">Resolutie inhoudende amphatie</Header>
+   <Header type="start-law" page="00000236" size="1.1">Resolutie dat saken van nnan-</Header>
+   <Header type="start-law" page="00000236" size="1.1">Resolutie dat de Capitemen ba¬</Header>
+   <Header type="start-law-2" page="00000236" size="1.5294117647058822">Proutsionele ordonnantie over</Header>
+   <Header type="start-law-2" page="00000236" size="1.7647058823529411">Edele, Kerentveste, Hoog¬</Header>
+   <Header type="start-law" page="00000237" size="1.6470588235294117">Provisionele ordonnantie over</Header>
+   <Header type="start-law" page="00000240" size="1.7647058823529411">Waerschouwnge aengaende de</Header>
+   <Header type="start-law" page="00000241" size="1.5294117647058822">Placaet tegen het aensteken ende</Header>
+   <Header type="start-law" page="00000241" size="1.5294117647058822">Placaet tegens het verdonkeren</Header>
+   <Header type="start-law" page="00000243" size="1.6470588235294117">Placaet dat yder syn Heren-goet</Header>
+   <Header type="start-law" page="00000244" size="1.5294117647058822">Resolutie datter geen onmondige</Header>
+   <Header type="start-law" page="00000244" size="1.1">Resolusie dat de geestelyke Rent-</Header>
+   <Header type="start-law" page="00000244" size="1.1">Waerschouwnge dat de geunter-</Header>
+   <Header type="start-law" page="00000244" size="1.5294117647058822">Resolutie aengaende de betaling</Header>
+   <Header type="start-law" page="00000245" size="1.8823529411764706">Placaet over het stuck van de</Header>
+   <Header type="start-law" page="00000248" size="2">Resolutie dat de schouwen in</Header>
+   <Header type="start-law" page="00000249" size="1.5294117647058822">Placaet tegen het verbrengen en</Header>
+   <Header type="start-law" page="00000249" size="1.1">Publcatie van geen merkt-da.</Header>
+   <Header type="start-law" page="00000250" size="1.5294117647058822">Nadere Ordonnantie vant Ne-</Header>
+   <Header type="start-law-2" page="00000250" size="1.5294117647058822">Provtsionele ordonnantie over</Header>
+   <Header type="start-law" page="00000251" size="1.411764705882353">Provisionele ordonnantie over</Header>
+   <Header type="start-law" page="00000255" size="1.5294117647058822">Ordonnantie waer nae in het</Header>
+   <Header type="start-law" page="00000256" size="1.1">Waerschouwinghe ralende de</Header>
+   <Header type="start-law" page="00000257" size="1.5294117647058822">Placaet tegens vreemde kramers</Header>
+   <Header type="start-law" page="00000257" size="1.5294117647058822">Placaet rakende de gruyt aff</Header>
+   <Header type="start-law" page="00000258" size="1.8823529411764706">Ordonnantie op het dyck ende</Header>
+   <Header type="start-law" page="00000258" size="1.5294117647058822">Placaet over het stuck van de</Header>
+   <Header type="start-law" page="00000262" size="1.1">Resolutie dat een proees in cas</Header>
+   <Header type="start-law" page="00000262" size="1.1">Placaet op het wisschen in de</Header>
+   <Header type="start-law" page="00000263" size="1.6470588235294117">Pubhcatie van tot Barnevelt</Header>
+   <Header type="start-law" page="00000263" size="1.1">Placaet vakende het onderhou-</Header>
+   <Header type="start-law-2" page="00000264" size="1.5294117647058822">Nteuwe en waedere ordonnantie</Header>
+   <Header type="start-law" page="00000267" size="2.1176470588235294">Placaet tegens de Rooms-gesin-</Header>
+   <Header type="start-law" page="00000270" size="1.5294117647058822">Resolutie dat de Schepens tot</Header>
+   <Header type="start-law" page="00000270" size="1.1">Resolutie dat Ontfangers Rent-</Header>
+   <Header type="start-law-2" page="00000271" size="1.8823529411764706">Ordonnautie op de Scholen ten</Header>
+   <Header type="start-law-2" page="00000272" size="1.5294117647058822">Van de qualiteyten ende be¬</Header>
+   <Header type="start-law-2" page="00000274" size="1.5294117647058822">Wie geen school mogen houden</Header>
+   <Header type="start-law-2" page="00000274" size="1.5294117647058822">Van de Costers.</Header>
+   <Header type="start-law" page="00000276" size="1.7647058823529411">Resolutien van sententien by ge-</Header>
+   <Header type="start-law" page="00000276" size="1.7647058823529411">Resolutie van niet meer vicaryen</Header>
+   <Header type="start-law" page="00000276" size="1.6470588235294117">Ordonnantie dat yder syn Lee-</Header>
+   <Header type="start-law-2" page="00000277" size="1.5294117647058822">Ordonnansie op ’t beroepen van</Header>
+   <Header type="start-law-2" page="00000277" size="1.5294117647058822">Van het verval der onkosten in</Header>
+   <Header type="start-law-2" page="00000278" size="1.6470588235294117">Van de beroepinge der Predthan-</Header>
+   <Header type="start-law" page="00000278" size="1.5294117647058822">Ordonnantie op de venduen van</Header>
+   <Header type="start-law" page="00000279" size="2.1176470588235294">Ordonnantie over het houden</Header>
+   <Header type="start-law" page="00000280" size="1.5294117647058822">Resolutie dat geen coederen uyt</Header>
+   <Header type="start-law" page="00000280" size="1.5294117647058822">Resolutie om den schouw in</Header>
+   <Header type="start-law" page="00000280" size="1.5294117647058822">Resolutie dat alle Leen-saken</Header>
+   <Header type="start-law" page="00000281" size="1.1">Ordonnantie op de prothocollen</Header>
+   <Header type="start-law" page="00000282" size="1.5294117647058822">Placaet tegens het verdonckeren</Header>
+   <Header type="start-law" page="00000282" size="1.1">Placaet van het aenbrengen der</Header>
+   <Header type="start-law" page="00000283" size="1.5294117647058822">Resolutie dat de extraordinaris</Header>
+   <Header type="start-law" page="00000283" size="1.1">Resolutie om by ’t Hoff in Leen-</Header>
+   <Header type="start-law" page="00000284" size="1.1">Resolutie om de aestimatie van</Header>
+   <Header type="start-law-2" page="00000284" size="1.5294117647058822">Reglement over het aenveerden</Header>
+   <Header type="start-law" page="00000287" size="1.1">Resolutie waer by parate exe¬</Header>
+   <Header type="start-law" page="00000287" size="1.1">Resolutie van oeen arresten toe</Header>
+   <Header type="start-law" page="00000288" size="1.7647058823529411">Placaet tegens het verbranden</Header>
+   <Header type="start-law" page="00000289" size="1.5294117647058822">Placaet tegen het woleren van</Header>
+   <Header type="start-law" page="00000290" size="1.6470588235294117">Provisionele Ordonnantie over</Header>
+   <Header type="start-law" page="00000290" size="1.6470588235294117">Provisionele Ordonnantie ouer</Header>
+   <Header type="start-law" page="00000295" size="1.1">Ordonnantie waer na in het toe¬</Header>
+   <Header type="start-law" page="00000296" size="1.7647058823529411">Waerschouwnge aengaende de</Header>
+   <Header type="start-law" page="00000297" size="1.7647058823529411">Waerschouwingh van geen goet</Header>
+   <Header type="start-law" page="00000297" size="1.7647058823529411">Ordonnantie waer nae sigh der</Header>
+   <Header type="start-law" page="00000299" size="2">Placaet tot voorkomngh van</Header>
+   <Header type="start-law" page="00000299" size="1.411764705882353">Resolutie waer by de Graef van</Header>
+   <Header type="start-law" page="00000300" size="1.1">Resolutie dat de saken van f-</Header>
+   <Header type="start-law-2" page="00000300" size="1.5294117647058822">Werbot dat geene payementen</Header>
+   <Header type="start-law" page="00000300" size="1.5294117647058822">Publicatie dat alle requesten aen</Header>
+   <Header type="start-law" page="00000301" size="1.7647058823529411">Placaet tegens den aenwas van</Header>
+   <Header type="start-law" page="00000302" size="1.1">Ordonnantie ende Reglement,</Header>
+   <Header type="start-law" page="00000306" size="1.5294117647058822">Placaet tegens het verdonckeren.</Header>
+   <Header type="start-law" page="00000307" size="1.5294117647058822">Placaet tegens enckelde stuyvers</Header>
+   <Header type="start-law" page="00000307" size="1.5294117647058822">Placaet tegen den invoer van</Header>
+   <Header type="start-law" page="00000308" size="1.5294117647058822">Placaet waer by de Schellingen</Header>
+   <Header type="start-law" page="00000310" size="1.5294117647058822">Resolutie dat allier brieven van</Header>
+   <Header type="start-law" page="00000310" size="1.5294117647058822">Resolutie waer by den Heer van</Header>
+   <Header type="start-law" page="00000311" size="1.411764705882353">Placaet waer by den invoer van</Header>
+   <Header type="start-law" page="00000311" size="1.411764705882353">Placaet tegen het verbrengen en</Header>
+   <Header type="start-law" page="00000312" size="1.1">Placaet tegen beerlose knechten,</Header>
+   <Header type="start-law" page="00000313" size="1.411764705882353">Placaet waer by verstaen wort</Header>
+   <Header type="start-law" page="00000314" size="1.6470588235294117">Placaet tegens het ontbeyligen</Header>
+   <Header type="start-law" page="00000315" size="1.5294117647058822">Placaet tegens de quade ende</Header>
+   <Header type="start-law-2" page="00000315" size="1.2352941176470589">L van Eck.</Header>
+   <Header type="start-law" page="00000316" size="1.5294117647058822">Ordre ende Reglement tot een</Header>
+   <Header type="start-law" page="00000316" size="1.5294117647058822">Ordre ende Reglement tot een</Header>
+   <Header type="start-law" page="00000321" size="1.1">Ordonnantie waer nae de Ge-</Header>
+   <Header type="start-law" page="00000323" size="1">Publicatie ende distractie van gereede</Header>
+   <Header type="start-law-2" page="00000324" size="1.2352941176470589">Opbadinge van ongereede Goederen.</Header>
+   <Header type="start-law-2" page="00000324" size="1.2352941176470589">Reele lnbeeringe in ongereede goederen ende</Header>
+   <Header type="start-law-2" page="00000324" size="1.2352941176470589">Distracte van ongereede verwonnen</Header>
+   <Header type="start-law-2" page="00000324" size="1.2352941176470589">Van Executie op brieven van t Hoff</Header>
+   <Header type="start-law-2" page="00000324" size="1.2352941176470589">Brieven van afdeylinge van ’t Hoff</Header>
+   <Header type="start-law" page="00000326" size="1">Ordre ende Forme over ’t hou-</Header>
+   <Header type="start-law" page="00000328" size="1.411764705882353">Waerschouwinge aengaende het</Header>
+   <Header type="start-law" page="00000329" size="1.5294117647058822">Publicatie tot ontdeckainee van</Header>
+   <Header type="start-law" page="00000329" size="1.5294117647058822">Publcatie dat yder sal bebben</Header>
+   <Header type="start-law" page="00000329" size="1.5294117647058822">Publicatie wegens het doen pro¬</Header>
+   <Header type="start-law" page="00000330" size="1.1">Resolutie van geen arresten te</Header>
+   <Header type="start-law" page="00000330" size="1.5294117647058822">Resolutie waer by een versochte</Header>
+   <Header type="start-law" page="00000330" size="1.5294117647058822">Publicatie aengaende het pro¬</Header>
+   <Header type="start-law" page="00000331" size="1.1">Placaet tegens de Heyde¬bran-</Header>
+   <Header type="start-law" page="00000332" size="1.1">Placaet tegens landtlopers, be-</Header>
+   <Header type="start-law" page="00000333" size="1.5294117647058822">Waerschouwinge dat niemandt</Header>
+   <Header type="start-law" page="00000335" size="1.1">Resolutie invoerende Festament-</Header>
+   <Header type="start-law-2" page="00000336" size="1.6470588235294117">Dispositie by Eestament en Uy¬</Header>
+   <Header type="start-law" page="00000337" size="1.7647058823529411">Placaet tegens de dubbeldestuy¬</Header>
+   <Header type="start-law" page="00000338" size="1.411764705882353">Ordonnantie op het wegh-gelt</Header>
+</Root>
