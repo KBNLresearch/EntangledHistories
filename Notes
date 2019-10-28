@@ -1,6 +1,6 @@
 Opvallend:
 - Romeinse cijfers worden vaak slecht getranskribeerd (misschien omdat XX niet in NL voorkomt?), bijv. pagina 100 van KBNL03000092135_png
-
+Reading order is niet overal op orde, Bv pagina's 11, 201 van UBU000005064_png
 
 
 Fontsize en italic enzo zit wel in de Transkribus-output van KBNL03000092135_png maar niet van UBU000005064_png
@@ -10,10 +10,18 @@ Misschien is de eerste ge-OCR-d en de tweede ge-HTR-d?
 
 
 Voor UBU000005064_png
-cat process_page_output.xml | grep '>Resolutie' | wc -l
-126
-cat process_page_output.xml | grep '>Placaet' | wc -l
-337
+Na weghalen eerste en laatste deel boek, en wegfilteren van (zo veel mogelijk) headers
+
+for kw in Resolutie Resolatie Placaet Ordonnantie Publicatie Waerschouwing; 
+	do cnt=`cat process_page_output.xml | grep ">$kw"|wc -l`; 
+	echo $kw $cnt; done
+
+Resolutie 126
+Placaet 145
+Ordonnantie 20
+Publicatie 10
+Waerschouwing 3
+
 
 Dus 126 keer een textregio die begint met 'Resolutie' en 337 keer met 'Placaet'
 
@@ -40,3 +48,97 @@ Placeaet               1
 Verbodt                1
 Echtordnungh           1
 Resolutien             1
+
+
+
+
+Pagina 11: start Placaeten, ordonnantien ende resolutien
+Pagina 339: start register
+Pagina 361: start appendices
+
+
+Jupyter NB voor vergelijken GT titels met gevonden titels uit xslt
+NB: laden GT nog niet probleemloos door lege rijen(?)
+
+
+Jaartallen uit tekst halen is niet triviaal. Er zitten relatief veel (op het oog) OCR/HTR-fouten in getallen. Bijvoorbeeld zoeken naar 1C (ipv 16) levert 11 hits op, zie hieronder. Hiervoor een parser (en vooral ook: matcher) schrijven is nog best een klus. 
+Romeinse cijfers kom ik überhaupt weinig tegen in dit boek
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: page="00000096">Extract uyttet reces des Landtdaghs in Maio 1C20. tot LNymegen gehouden.</MyTextRegion>
+Match: 1C
+Start location: 10030:78
+Offset: 741161
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: page="00000130">Extract uyttet reces des Landtdags in Maio 1C8o. binnen Zutphen gehouden.</MyTextRegion>
+Match: 1C
+Start location: 14151:77
+Offset: 1040719
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: ...page="00000159">Extract uyttet reces des Landtdaghs in Julio ende Augusto 1CAo. binnen Arnhem geholden.</MyTextRegion>
+Match: 1C
+Start location: 17274:92
+Offset: 1291190
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: ...page="00000163">Extract uyttet reces des Landtdaghs in Junio ende Julio 1C42. binnen Nymegen geholden.</MyTextRegion>
+Match: 1C
+Start location: 17775:90
+Offset: 1329926
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: page="00000164">Extract uyttet reces des Landtdaghs Anno 1C42. binnen Arnhem geholden.</MyTextRegion>
+Match: 1C
+Start location: 17844:75
+Offset: 1333166
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: ...age="00000165">Extract uyttet reces des Landtdaghs in Aprili , Maio en Junio 1C4c. binnen Arnhem geholden.</MyTextRegion>
+Match: 1C
+Start location: 18081:96
+Offset: 1347662
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: ...page="00000167">Extract uyttet reces des Landtdaghs in Aprili Maio en Junio 1C41. binnen Zutphen geholden.</MyTextRegion>
+Match: 1C
+Start location: 18250:94
+Offset: 1359746
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: ...page="00000170">Extract uyttet reces des Landtdaghs in Maio, Junio en Julio 1CAo. binnen Arnhem geholden.</MyTextRegion>
+Match: 1C
+Start location: 18599:94
+Offset: 1386277
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: ...page="00000170">Extract uyttet reces des Landtdaghs in Maio, Junio, en Julio 1C4p. binnen Arnhem geholden.</MyTextRegion>
+Match: 1C
+Start location: 18647:95
+Offset: 1388510
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: page="00000221">Extract uyttet reces des Landtdaghs in Aprili 1C7o- en vervolgens binnen Nymegen gehouden.</MyTextRegion>
+Match: 1C
+Start location: 25717:80
+Offset: 1856498
+Length: 2
+
+System ID: /home/sara/RiR-annemieke/Transkribus-repo/process_page_output.xml
+Description: page="00000221">Gelderlandt van den jaere 1C70.</MyTextRegion>
+Match: 1C
+Start location: 25759:60
+Offset: 1858701
+Length: 2
+
+
