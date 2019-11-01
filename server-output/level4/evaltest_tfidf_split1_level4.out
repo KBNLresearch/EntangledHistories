@@ -1,0 +1,20 @@
+Precision (doc avg):	0.18859649122807018
+Recall (doc avg):   	0.5491228070175439
+F1 score (doc avg): 	0.26588693957115006
+Precision (conc avg):	0.006310002459235394
+Recall (conc avg):  	0.01089623622374714
+F1 score (conc avg):	0.006950224082179152
+Precision (microavg):	0.19196428571428573
+Recall (microavg):  	0.5584415584415584
+F1 score (microavg):	0.28571428571428575
+NDCG:               	0.509215850286294
+NDCG@5:             	0.509215850286294
+NDCG@10:            	0.509215850286294
+Precision@1:        	0.40350877192982454
+Precision@3:        	0.21052631578947367
+Precision@5:        	0.18859649122807018
+LRAP:               	0.46611506933272046
+True positives:     	43
+False positives:    	181
+False negatives:    	34
+Documents evaluated:	57
