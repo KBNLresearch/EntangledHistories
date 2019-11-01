@@ -1,4 +1,4 @@
-# Transkribus
+# Entangles Histories
 Processing of Transkribus output using xslt and running it through Annif
 
 This repository was created in the context of the Entangled Histories project of Annemieke Romein, Researcher in Residence at the KB in 2019 (May-October). Read about it here: https://lab.kb.nl/about-us/blog/digital-humanities-and-legal-history-can-computer-read-and-classify-ordinances
